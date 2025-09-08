@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - DateGenie</title>
+    <meta name="description" content="DateGenie Terms of Service - Read our terms and conditions for using the DateGenie app.">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://dategenie.app/terms-of-service.html">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .legal-page {
+            padding: 120px 0 80px;
+            background: #f8fafc;
+            min-height: 100vh;
+        }
+        .legal-content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            background: white;
+            border-radius: 20px;
+            padding: 3rem;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        }
+        .legal-content h1 {
+            color: #1a202c;
+            margin-bottom: 2rem;
+            font-size: 2.5rem;
+        }
+        .legal-content h2 {
+            color: #2d3748;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+        .legal-content p {
+            margin-bottom: 1rem;
+            line-height: 1.6;
+            color: #4a5568;
+        }
+        .legal-content ul {
+            margin-bottom: 1rem;
+            padding-left: 2rem;
+        }
+        .legal-content li {
+            margin-bottom: 0.5rem;
+            color: #4a5568;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 2rem;
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <div class="nav-container">
+                <div class="nav-logo">
+                    <a href="/" style="text-decoration: none; color: inherit;">
+                        <h1>DateGenie</h1>
+                    </a>
+                </div>
+                <div class="nav-links">
+                    <a href="/#features">Features</a>
+                    <a href="/#screenshots">Screenshots</a>
+                    <a href="/#download">Download</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <section class="legal-page">
+        <div class="legal-content">
+            <a href="/" class="back-link">← Back to DateGenie</a>
+            
+            <h1>Terms of Service</h1>
+            
+            <p><strong>Last updated:</strong> December 1, 2024</p>
+            
+            <h2>Agreement to Terms</h2>
+            <p>By downloading, installing, or using the DateGenie mobile application ("App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the App.</p>
+            
+            <h2>Description of Service</h2>
+            <p>DateGenie is a mobile application that provides curated date ideas and planning assistance for couples. The App includes:</p>
+            <ul>
+                <li>72 curated date ideas</li>
+                <li>Interactive scratch-to-reveal functionality</li>
+                <li>Date categorization and filtering</li>
+                <li>Sharing capabilities for date ideas</li>
+            </ul>
+            
+            <h2>License Grant</h2>
+            <p>Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable license to download, install, and use the App on your personal device for personal, non-commercial purposes.</p>
+            
+            <h2>User Responsibilities</h2>
+            <p>You agree to:</p>
+            <ul>
+                <li>Use the App only for lawful purposes</li>
+                <li>Not attempt to reverse engineer, modify, or distribute the App</li>
+                <li>Not use the App in any way that could damage or impair the service</li>
+                <li>Respect the intellectual property rights of the App and its content</li>
+            </ul>
+            
+            <h2>Intellectual Property</h2>
+            <p>All content, features, and functionality of the App, including but not limited to text, graphics, logos, and software, are owned by Shahab Geravesh and are protected by copyright, trademark, and other intellectual property laws.</p>
+            
+            <h2>Privacy</h2>
+            <p>Your privacy is important to us. Please review our Privacy Policy, which also governs your use of the App, to understand our practices.</p>
+            
+            <h2>Disclaimers</h2>
+            <p>The App is provided "as is" without warranties of any kind. We do not guarantee that:</p>
+            <ul>
+                <li>The App will be error-free or uninterrupted</li>
+                <li>Date ideas will be suitable for all users or circumstances</li>
+                <li>The App will meet your specific requirements</li>
+            </ul>
+            
+            <h2>Limitation of Liability</h2>
+            <p>To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, or use, arising out of or relating to your use of the App.</p>
+            
+            <h2>Indemnification</h2>
+            <p>You agree to indemnify and hold harmless Shahab Geravesh from any claims, damages, or expenses arising from your use of the App or violation of these Terms.</p>
+            
+            <h2>Termination</h2>
+            <p>We may terminate or suspend your access to the App at any time, with or without cause, with or without notice. Upon termination, your right to use the App will cease immediately.</p>
+            
+            <h2>Updates and Changes</h2>
+            <p>We may update the App or these Terms from time to time. Continued use of the App after such changes constitutes acceptance of the new Terms.</p>
+            
+            <h2>Governing Law</h2>
+            <p>These Terms shall be governed by and construed in accordance with the laws of the jurisdiction where the developer resides, without regard to conflict of law principles.</p>
+            
+            <h2>Severability</h2>
+            <p>If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that the remaining Terms will remain in full force and effect.</p>
+            
+            <h2>Contact Information</h2>
+            <p>If you have any questions about these Terms, please contact us through the App Store support system or at:</p>
+            <ul>
+                <li>Developer: Shahab Geravesh</li>
+                <li>App: DateGenie</li>
+            </ul>
+            
+            <h2>Entire Agreement</h2>
+            <p>These Terms, together with our Privacy Policy, constitute the entire agreement between you and us regarding the use of the App.</p>
+            
+            <p><strong>By using DateGenie, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.</strong></p>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>DateGenie</h3>
+                    <p>Your personal genie for discovering amazing date ideas that actually work.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="/#features">Features</a></li>
+                        <li><a href="/#screenshots">Screenshots</a></li>
+                        <li><a href="/#download">Download</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="/privacy-policy.html">Privacy Policy</a></li>
+                        <li><a href="/terms-of-service.html">Terms of Service</a></li>
+                        <li><a href="/app-support.html">App Support</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Developer</h4>
+                    <p>Created by <strong>Shahab Geravesh</strong></p>
+                    <p>© 2025 DateGenie. All rights reserved.</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 DateGenie, Shahab Geravesh. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
