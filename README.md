@@ -2,7 +2,7 @@
 
 A comprehensive, SEO-optimized website to promote the DateGenie iOS app - your personal date planning genie with 72 curated date ideas.
 
-## 🚀 Features
+##  Features
 
 ### SEO Optimization
 - **Comprehensive Meta Tags**: Open Graph, Twitter Cards, and standard meta tags
